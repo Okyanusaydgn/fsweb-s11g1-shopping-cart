@@ -2,6 +2,11 @@
 
 Bu modülde, 'Context API' hakkında yeni edindiğiniz bilgileri kullanarak bir e-ticaret sayfasını 'Context API' kullanacak şekilde yeniden düzenleyecek ve uygulamanın işlevselliğini genişleterek onu daha sağlam hale getireceksiniz!
 
+
+<!--  Bir datayı parent dan child a taşımaya props drilling denir. Gereksiz drilling den kurtulmak yani props birden fazla kullanımı engellemek için biz redux veya context API kullanırız. -->
+<!--  Büyük uygulamalarda bir bileşenin durumunu ve işlevselleğini alt bileşenlere iletmek için props zinciri kullanılır ve bu uzun ve karmaşık olabilir. Context API sayesinde bu iletim basitleşir -->
+<!--  Context API kullanıcı oturum durumu, tema seçimi, dil tercihi gibi uygulamalarda kullanılır. -->
+<!-- children props u bir bileşenin içine gömülen diğer bileşenleri ifade eder. -->
 ## Giriş
 
 Bu talimatları dikkatlice okuyun. Bu projeye başlamadan önce tam olarak ne beklendiğini anlayın.
